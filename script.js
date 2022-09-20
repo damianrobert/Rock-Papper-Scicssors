@@ -47,6 +47,8 @@ buttons.forEach(function (button){
     showComputerChoice.innerHTML = "COMPUTER CHOICE: " + computerChoice
 
   })
+
+  console.log('This text is added on dev branch');
            
 })
 
