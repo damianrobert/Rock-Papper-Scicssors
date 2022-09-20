@@ -48,7 +48,7 @@ buttons.forEach(function (button){
 
   })
 
-  console.log('This text is added on dev branch');
+  console.log('This was added in dev branch')
            
 })
 
